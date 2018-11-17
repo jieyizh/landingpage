@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="233px" height="47px" viewBox="0 0 233 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>PriveHealth_logo_orange</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="75.6336595%" y1="50%" x2="64.5544858%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#3582FF" offset="0%"></stop>
+            <stop stop-color="#F7605D" offset="52.2903094%"></stop>
+            <stop stop-color="#F7605D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="61.0734568%" y1="50%" x2="53.2459086%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#3582FF" offset="0%"></stop>
+            <stop stop-color="#F7605D" offset="78.1463921%"></stop>
+            <stop stop-color="#F7605D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="PriveHealth_logo_orange" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="PriveHealth" font-family="RobotoSlab-Regular, Roboto Slab" font-size="32" font-weight="normal" letter-spacing="0.212939" fill="#F7605D">
+            <tspan x="48.930398" y="37">PriveHealth</tspan>
+        </text>
+        <path d="M12.5,21 L37.292472,21" id="Line-2" stroke="url(#linearGradient-1)" stroke-width="4" stroke-linecap="round" fill-rule="nonzero"></path>
+        <path d="M8.29247198,3 L32.292472,3" id="Line-2" stroke="#3582FF" stroke-width="4" stroke-linecap="round" fill-rule="nonzero"></path>
+        <path d="M0.255302368,6.785414 L9.46676844,6.39954769" id="Line-2" stroke="#3582FF" stroke-width="4" stroke-linecap="round" fill-rule="nonzero" transform="translate(4.824172, 6.386442) rotate(-47.000000) translate(-4.824172, -6.386442) "></path>
+        <path d="M-7.78835871,31.9793802 C2.49111147,33.3088173 9.82597619,33.387684 14.2162355,32.2159805 C18.6064947,31.0442769 23.5533009,27.5818453 29.056654,21.8286856" id="Line-2" stroke="#3582FF" stroke-width="4" stroke-linecap="round" fill-rule="nonzero" transform="translate(10.634148, 27.434012) rotate(77.000000) translate(-10.634148, -27.434012) "></path>
+        <path d="M31.6069584,6.785414 L40.8184244,6.39954769" id="Line-2" stroke="#3582FF" stroke-width="4" stroke-linecap="round" fill-rule="nonzero" transform="translate(36.175828, 6.386442) scale(-1, 1) rotate(-47.000000) translate(-36.175828, -6.386442) "></path>
+        <path d="M32.8984115,15.3109685 C37.8466804,15.7798526 41.3402396,16.0389498 43.3790892,16.08826" id="Line-2" stroke="#3582FF" stroke-width="4" stroke-linecap="round" fill-rule="nonzero" transform="translate(38.138750, 15.699614) scale(-1, 1) rotate(77.000000) translate(-38.138750, -15.699614) "></path>
+        <path d="M5,28 L35.3543651,28" id="Line-2" stroke="url(#linearGradient-2)" stroke-width="4" stroke-linecap="round" fill-rule="nonzero" transform="translate(20.500000, 28.000000) rotate(90.000000) translate(-20.500000, -28.000000) "></path>
+    </g>
+</svg>
