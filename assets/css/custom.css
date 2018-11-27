@@ -1,0 +1,25 @@
+.h4 {
+    font-weight: bold;
+}
+
+.red {
+    color: rgb(245, 97, 97); 
+}
+
+.grey {
+    color: rgb(81, 81, 79); 
+}
+
+.nomarg {
+    margin-top: 0px; 
+    margin-bottom: 0px; 
+}
+
+.st_footer_logo_warap {
+    max-width: 300px; 
+}
+
+.h1 {
+    font-size: 30px; 
+    line-height: 0; 
+}
