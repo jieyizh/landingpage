@@ -41,3 +41,7 @@ body {
 .topmargin {
     margin-top: 40px; 
 }
+
+.team-img {
+    width: 75%;
+}
