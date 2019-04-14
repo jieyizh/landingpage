@@ -17,8 +17,8 @@ Primary use:    Bootstrap SaaS, Startup, Software & WebApp Template
 
 [Typography]
 
-Body: 16px "Poppins", sans-serif;
-Title: 34px "Oxygen", "Poppins", sans-serif;
+Body: 16px "Nunito", sans-serif;
+Title: 34px "Nunito", sans-serif;
 
 /*==============================
 [Table of contents]
@@ -70,7 +70,7 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: "Poppins", sans-serif;
+  font-family: "Nunito", sans-serif;
   color: #9595A8;
   font-weight: 400; }
 
@@ -103,12 +103,12 @@ a {
     outline: none; }
 
 button, input, optgroup, select, textarea {
-  font-family: "Poppins", sans-serif;
+  font-family: "Nunito", sans-serif;
   font-weight: 300; }
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: "Oxygen", "Poppins", sans-serif;
+  font-family: "Nunito", sans-serif;
   font-weight: 400;
   color: #140F30;
   line-height: 1.6; }
@@ -267,10 +267,10 @@ input[type="submit"] {
   display: inline-block; }
 
 .st-body-font {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Nunito", sans-serif; }
 
 .st-title-font {
-  font-family: "Oxygen", "Poppins", sans-serif; }
+  font-family: "Nunito", sans-serif; }
 
 .st-position-wrap {
   position: relative;
@@ -281,10 +281,10 @@ input[type="submit"] {
   min-height: 750px !important; }
 
 .st-fonts-poppins {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Nunito", sans-serif; }
 
 .st-fonts-oxygen {
-  font-family: "Oxygen", "Poppins", sans-serif; }
+  font-family: "Nunito", sans-serif; }
 
 .font-weight-medium {
   font-weight: 500; }
@@ -23217,7 +23217,7 @@ footer.st_default_footer_area .st_fotter_menu.text-shhamrock ul li a,
       margin-right: 25px;
       flex: 0 0 auto; }
     .st_banner_info_box .st_sidebar_single_item .st_banner_sidebar_content h3 {
-      font-family: "Poppins", sans-serif;
+      font-family: "Nunito", sans-serif;
       font-weight: bold;
       margin-bottom: 20px; }
     .st_banner_info_box .st_sidebar_single_item .st_banner_sidebar_content p {
@@ -23804,13 +23804,13 @@ span.st-play-icon-border {
 .st_counter_right h2 {
   font-size: 3.000em;
   font-weight: bold;
-  font-family: "Poppins", sans-serif;
+  font-family: "Nunito", sans-serif;
   margin: 0 0 18px; }
 .st_counter_right h4 {
   color: #9595A8;
   font-weight: 500;
   font-size: 1.125em;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Nunito", sans-serif; }
 
 .st_single_counter {
   display: flex;
@@ -24089,7 +24089,7 @@ img.feature-force-large-thumb {
     font-size: 14px;
     font-size: 0.875rem;
     margin-bottom: 16px;
-    font-family: "Poppins", sans-serif;
+    font-family: "Nunito", sans-serif;
     font-weight: 600; }
   .st_feature_single_item p {
     font-size: 14px;
@@ -24402,7 +24402,7 @@ img.feature-force-large-thumb {
     font-size: 18px;
     font-size: 1.125rem;
     margin: 0 0 48px;
-    font-family: "Poppins", sans-serif; }
+    font-family: "Nunito", sans-serif; }
     @media only screen and (max-width: 991.98px) {
       .st_default_content h4 {
         margin-bottom: 25px; } }
@@ -24876,7 +24876,7 @@ img.feature-force-large-thumb {
       -o-transform: scale(1.2);
       transform: scale(1.2); }
 .st_team_item.st_team_item_v3 .st_team_content h3 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Nunito", sans-serif;
   font-weight: 500;
   margin-bottom: 0; }
 .st_team_item.st_team_item_v3 .st_team_content p {
@@ -24899,7 +24899,7 @@ img.feature-force-large-thumb {
 .st_team_4 .st_team_single_content {
   border-left: 4px solid #ECEAF6; }
   .st_team_4 .st_team_single_content h3 {
-    font-family: "Poppins", sans-serif; }
+    font-family: "Nunito", sans-serif; }
 .st_team_4 .st_team_hover_content {
   top: 0;
   width: 100%;
@@ -24919,7 +24919,7 @@ img.feature-force-large-thumb {
   padding: 40px 10px 35px 25px;
   background-color: rgba(245, 249, 253, 0.95); }
   .st_team_4 .st_team_hover_content h3 {
-    font-family: "Poppins", sans-serif;
+    font-family: "Nunito", sans-serif;
     font-size: 18px;
     font-size: 1.125rem;
     font-weight: 500;
@@ -25240,7 +25240,7 @@ img.feature-force-large-thumb {
       color: #9595A8;
       font-size: 1.5em;
       margin-bottom: 55px;
-      font-family: "Oxygen", "Poppins", sans-serif;
+      font-family: "Nunito", sans-serif;
       font-weight: 300; }
       @media only screen and (max-width: 767.98px) {
         .st_testimonial_slider_v3 .st_testimonial_item .st_testimonial_content p {
@@ -26595,7 +26595,7 @@ ul.st-pricing-list.st-bounce-invert {
       ul.st-pricing-list.st-bounce-invert ul.st-pricing-wrapper .st-price .st-currency {
         color: #140F30;
         font-size: 2.125em;
-        font-family: "Oxygen", "Poppins", sans-serif;
+        font-family: "Nunito", sans-serif;
         font-weight: bold; }
     ul.st-pricing-list.st-bounce-invert ul.st-pricing-wrapper .st-pricing-body ul.st-pricing-features {
       margin: 0;
@@ -26761,7 +26761,7 @@ ul.st-pricing-list.st-bounce-invert {
       display: inline-block;
       text-transform: uppercase;
       padding: 5px 20px;
-      font-family: "Oxygen", "Poppins", sans-serif;
+      font-family: "Nunito", sans-serif;
       margin: 0 0 20px;
       font-size: 16px;
       font-size: 1rem; }
@@ -26916,7 +26916,7 @@ ul.st-pricing-list.st-bounce-invert {
     color: #5040A0;
     font-weight: 600;
     text-transform: uppercase;
-    font-family: "Poppins", sans-serif;
+    font-family: "Nunito", sans-serif;
     margin-bottom: 0; }
 .st-pricing-btn-style-wrapper ul.st-pricing-list.st-bounce-invert ul.st-pricing-wrapper .st-price {
   padding: 30px 0 20px; }
@@ -26965,7 +26965,7 @@ ul.st-pricing-list.st-bounce-invert {
     .st_pricing_table_waraper .st_pricing_single_item .st_pricing_title {
       padding: 15px 0; }
       .st_pricing_table_waraper .st_pricing_single_item .st_pricing_title h3 {
-        font-family: "Poppins", sans-serif;
+        font-family: "Nunito", sans-serif;
         font-size: 14px;
         font-size: 0.875rem;
         margin-bottom: 0; }
@@ -27698,7 +27698,7 @@ ul.st-pricing-list.st-bounce-invert {
         color: #140F30;
         font-size: 14px;
         font-size: 0.875rem;
-        font-family: "Oxygen", "Poppins", sans-serif;
+        font-family: "Nunito", sans-serif;
         font-weight: bold;
         display: block;
         text-transform: uppercase;
@@ -27947,7 +27947,7 @@ div.st_map {
         display: flex;
         justify-content: center;
         align-items: center;
-        font-family: "Oxygen", "Poppins", sans-serif;
+        font-family: "Nunito", sans-serif;
         z-index: 0;
         top: -8px; }
         .st_dotted_bg .st_dotted_border .st_solid_bg .st_s:before, .st_dotted_bg .st_dotted_border .st_solid_bg .st_s:after {
@@ -28586,7 +28586,7 @@ div.st_map {
   position: relative; }
   .saastrend-logo h1 {
     color: #fff;
-    font-family: "Poppins", sans-serif;
+    font-family: "Nunito", sans-serif;
     font-weight: bold;
     font-size: 9rem;
     line-height: 220px;
@@ -29275,7 +29275,7 @@ ul.st_number_pagenation li {
         max-width: 200px; } }
 
 .st_countdown {
-  font-family: "Oxygen", "Poppins", sans-serif; }
+  font-family: "Nunito", sans-serif; }
   @media only screen and (max-width: 575.98px) {
     .st_countdown .st_item {
       flex: 0 0 50%;
