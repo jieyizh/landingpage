@@ -22682,7 +22682,6 @@ footer.st_default_footer_area .st_fotter_menu.text-shhamrock ul li a,
 *
 * ------------------------------------------------------------------------- */
 .st_banner_area {
-  z-index: 0;
   overflow: hidden;
   position: relative; }
 

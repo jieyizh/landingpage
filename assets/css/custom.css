@@ -63,3 +63,7 @@ body {
 .heavy-font-weight {
   font-weight: 700
 }
+
+.st_banner_area .st_banner_content {
+  z-index: 2;
+}
