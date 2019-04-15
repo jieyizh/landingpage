@@ -54,6 +54,10 @@ body {
   width: 85%;
 }
 
+.update-img {
+  width: 100%;
+}
+
 .vertical-align {
   display: flex;
   align-items: top;
