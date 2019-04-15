@@ -42,13 +42,21 @@ body {
   margin-top: 40px; 
 }
 
+.botmargin {
+  margin-top: 40px; 
+}
+
 .team-img {
-  width: 75%;
+  width: 55%;
+}
+
+.pillar-img {
+  width: 85%;
 }
 
 .vertical-align {
   display: flex;
-  align-items: center;
+  align-items: top;
   justify-content: center;
 }
 
